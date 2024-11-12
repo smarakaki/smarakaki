@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Selma Arakaki</h1>
-<h3 align="center">I've already finished my Bootcamp on Triple Ten Brasil as a QA analist. There I've learned about how to do regression testing, write bug reports and test cases, analyze and decompose app requirements,identify equivalence classes and threshold values, choose the configuration for cross-browser testing, compile checklists to cover all testing, independent testing, and testing an API with Postman</h3>
+<h3 align="center">unior Software Quality Analyst with experience in manual functional testing. I have skills in bug detection and reporting, test case management, and agile methodologies (Scrum). I use testing tools such as Cypress, JIRA, and Postman, and have knowledge of scripting languages like JavaScript. I am excellent at effective communication, problem-solving, and attention to detail, and am committed to continuous improvement and learning. My goal is to ensure the quality and functionality of applications and systems.
+
+With a background and experience in physiotherapy, I bring an analytical and detail-oriented approach to the testing process, designing test cases to ensure that products not only meet technical requirements but also align with business needs.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
